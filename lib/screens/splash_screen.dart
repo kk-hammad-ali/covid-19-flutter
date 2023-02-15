@@ -18,7 +18,7 @@ class _SplashScreenState extends State<SplashScreen>
   @override
   void initState() {
     _animationController =
-        AnimationController(vsync: this, duration: const Duration(seconds: 3));
+        AnimationController(vsync: this, duration: const Duration(seconds: 3))..repeat();
 
     Timer(const Duration(seconds: 3), () {
       Navigator.push(context,

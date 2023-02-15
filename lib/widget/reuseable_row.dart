@@ -18,19 +18,20 @@ class ReuseableRow extends StatelessWidget {
                 style: const TextStyle(
                   fontSize: 20,
                 ),
+                textAlign: TextAlign.left,
               ),
               Text(
                 value,
                 style: const TextStyle(
                   fontSize: 20,
                 ),
+                textAlign: TextAlign.right,
               ),
             ],
           ),
           const SizedBox(
             height: 5,
           ),
-          const Divider(),
         ],
       ),
     );

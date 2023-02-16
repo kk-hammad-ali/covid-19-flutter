@@ -1,16 +1,9 @@
-# covid_19
+# Covid-19 Tracking Application
+## A Flutter based API Application
+***Must Read***
+* This app was build to understand the api working in flutter. 
+* This repo contain complete and latest code for covid-19 tracker appliacation by ***axiftaj***
+* Project contain different braches each caintaing the steps to make the appliation
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Developers
+* Hammad Ali 
